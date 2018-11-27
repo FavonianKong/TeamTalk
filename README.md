@@ -1,5 +1,5 @@
 # TeamTalk
-IM system for net-programing-learning
+IM system for net-programing-learning<br>
 Dependency:
 -----------
 Please install mysql, you can use the following version or other version `Ver 15.1 Distrib 5.5.60-MariaDB`.<br>
@@ -26,7 +26,7 @@ make_mariadb.sh  #maybe u can ignore it if you have install the mariaDB
 make_protobuf.sh
 ```
 -----------------------------------------------------------------------
-Then go to the `/server/src` and excute the `build.sh version 1`
+Then go to the `/server/src` and excute the `build.sh version 1`<br>
 Using:
 ------
 After compiling, a `.gz` file will be generated in the parent directory.
