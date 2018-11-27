@@ -24,8 +24,8 @@ make_hiredis.sh
 make_log4cxx.sh
 make_mariadb.sh  #maybe u can ignore it if you have install the mariaDB
 make_protobuf.sh
-```
 Then go to the `/server/src` and excute the `build.sh version 1`<br>
+```
 -----------------------------------------------------------------------
 Using:
 ------
