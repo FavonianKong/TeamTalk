@@ -20,7 +20,7 @@ Building:
 TeamTalk must be build using  a reasonable C++ compiler,Also it should support `c++11`.
 Before building the server,excute the following `x.sh`
 ```
-make_hiredis.sh
+make_hiredis.sh  #if u have install redis manually,also try it
 make_log4cxx.sh
 make_mariadb.sh  #maybe u can ignore it if you have install the mariaDB
 make_protobuf.sh
