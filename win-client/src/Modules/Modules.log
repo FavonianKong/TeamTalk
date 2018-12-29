@@ -1,0 +1,237 @@
+﻿  stdafx.cpp
+  IM.SwitchService.pb.cc
+  IM.Other.pb.cc
+  IM.Message.pb.cc
+  IM.Login.pb.cc
+  IM.Group.pb.cc
+  IM.File.pb.cc
+  IM.Buddy.pb.cc
+  IM.BaseDefine.pb.cc
+  xmemfile.cpp
+  ximawnd.cpp
+  ximawbmp.cpp
+  ximatran.cpp
+  ximapng.cpp
+  ximapal.cpp
+  ximalyr.cpp
+  ximalpha.cpp
+  ximajpg.cpp
+  ximainfo.cpp
+  ximagif.cpp
+  ximage.cpp
+  正在生成代码...
+  正在编译...
+  ximaexif.cpp
+  ximaenc.cpp
+  ximabmp.cpp
+  正在生成代码...
+  zutil.c
+  uncompr.c
+  trees.c
+  inftrees.c
+  inflate.c
+  inffast.c
+  infback.c
+  gzio.c
+  deflate.c
+  crc32.c
+  compress.c
+  adler32.c
+  pngwutil.c
+  pngwtran.c
+  pngwrite.c
+  pngwio.c
+  pngvcrd.c
+  pngtrans.c
+  pngset.c
+  pngrutil.c
+  正在生成代码...
+  正在编译...
+  pngrtran.c
+  pngrio.c
+  pngread.c
+  pngpread.c
+  pngmem.c
+  pngget.c
+  pnggccrd.c
+  pngerror.c
+  png.c
+  jutils.c
+  jquant2.c
+  jquant1.c
+  jmemnobs.c
+  jmemmgr.c
+  jidctred.c
+  jidctint.c
+  jidctfst.c
+  jidctflt.c
+  jfdctint.c
+  jfdctfst.c
+  正在生成代码...
+  正在编译...
+  jfdctflt.c
+  jerror.c
+  jdtrans.c
+  jdsample.c
+  jdpostct.c
+  jdphuff.c
+  jdmerge.c
+  jdmaster.c
+  jdmarker.c
+  jdmainct.c
+  jdinput.c
+  jdhuff.c
+  jddctmgr.c
+  jdcolor.c
+  jdcoefct.c
+  jdatasrc.c
+  jdatadst.c
+  jdapistd.c
+  jdapimin.c
+  jctrans.c
+  正在生成代码...
+  正在编译...
+  jcsample.c
+  jcprepct.c
+  jcphuff.c
+  jcparam.c
+  jcomapi.c
+  jcmaster.c
+  jcmarker.c
+  jcmainct.c
+  jcinit.c
+  jchuff.c
+  jcdctmgr.c
+  jccolor.c
+  jccoefct.c
+  jcapistd.c
+  jcapimin.c
+  正在生成代码...
+  UserListModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\userlist\userlistmodule_impl.cpp(818): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  IUserListModule.cpp
+  TcpClientModule_Impl.cpp
+  SysConfigModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\sysconfig\sysconfigmodule_impl.h(16): warning C4091: “”: 没有声明变量时忽略“std::function<void (std::shared_ptr<void>)>”的左侧
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SysConfigDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  ServerConfigDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UserDetailInfoDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIRecentSessionList.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uirecentsessionlist.cpp(109): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uirecentsessionlist.cpp(140): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIIMListCommonDefine.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIIMList.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uiimlist.cpp(277): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uiimlist.cpp(308): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uiimlist.cpp(327): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIIMEdit.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  UIGroupsTreelist.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uigroupstreelist.cpp(118): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uigroupstreelist.cpp(150): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uigroupstreelist.cpp(181): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  UIEAUserTreelist.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uieausertreelist.cpp(102): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uieausertreelist.cpp(133): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+c:\users\favoniankong\desktop\teamtalk\win-client\src\modules\session\ui\uieausertreelist.cpp(154): warning C4477: “swprintf_s”: 格式字符串“%s”需要类型“wchar_t *”的参数，但可变参数 1 拥有了类型“const DuiLib::CDuiString”
+  SessionLayout_Function.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionLayout_Event.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionLayout.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SearchLayout.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainListLayout_Event.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainListLayout.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  正在生成代码...
+  正在编译...
+  SessionModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SessionManager.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  SyncTimerTimer.cpp
+  SendImgHttpOperation.cpp
+  DownloadAvatarHttpOperation.cpp
+  ISessionModule.cpp
+  UIMgr.cpp
+  EditToolbar.cpp
+  DlgBase.cpp
+  BkgroundUI.cpp
+  ScreenSnapshot.cpp
+  ScreenCapture.cpp
+  ManalSelectMode.cpp
+  ManalEditMode.cpp
+  CaptureMode.cpp
+  AutoSelectMode.cpp
+  ScreenCaptureModule_Impl.cpp
+  P2PCmdModule_Impl.cpp
+  Modules.cpp
+  MiscModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  正在生成代码...
+  正在编译...
+  SendMsgManage.cpp
+  ReceiveMsgManage.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MessageModule_Impl.cpp
+  MessageEntity.cpp
+  ReloginManager.cpp
+  LoginOperation.cpp
+  LoginModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  LoginDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  DoLoginServerHttpOperation.cpp
+  HttpPoolModule_Impl.cpp
+  CreateDiscussionGrpDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  ChangeDiscussionGrpMemberDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  GroupListModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  TransferManager.cpp
+  TransferFile.cpp
+  FileTransferUIThread.cpp
+  FileTransferSocket.cpp
+  FileTransferModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  FileTransferDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  EmoCfgParseTool.cpp
+  正在生成代码...
+  正在编译...
+  EmotionModule_Impl.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  EmotionDialog.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  EmotionButton.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  DatabaseModule_UserInfoDB_Impl.cpp
+  DatabaseModule_RecentSessionDB_Impl.cpp
+  DatabaseModule_MessageDB_Impl.cpp
+  DatabaseModule_Impl.cpp
+  DatabaseModule_ImageDB_Impl.cpp
+  DatabaseModule_GroupInfoDB_Impl.cpp
+  DatabaseModule_FileTransferHistory_Impl.cpp
+  DatabaseModule_DepartmentInfoDB_Impl.cpp
+  ModuleSubject.cpp
+  ModuleObserver.cpp
+  ModuleBase.cpp
+  UIEventManager.cpp
+  正在生成代码...
+    正在创建库 C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\..\lib\Debug\Modules.lib 和对象 C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\..\lib\Debug\Modules.exp
+  Modules.vcxproj -> C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\\..\bin\teamtalk\Debug\Modules.dll

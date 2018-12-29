@@ -1,0 +1,10 @@
+﻿  stdafx.cpp
+c:\users\favoniankong\desktop\teamtalk\win-client\src\teamtalk\stdafx.h(7): warning C4005: “_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS”: 宏重定义
+  c:\users\favoniankong\desktop\teamtalk\win-client\src\teamtalk\stdafx.h(7): note: 命令行参数: 参见前面的“_SILENCE_STDEXT_HASH_DEPRECATION_WARNINGS”定义
+c:\users\favoniankong\desktop\teamtalk\win-client\core\duilib\core\uimanager.h(45): warning C4091: “typedef ”: 没有声明变量时忽略“DuiLib::EVENTTYPE_UI”的左侧
+  MainDialog_TrayIcon.cpp
+  MainDialog_Event.cpp
+  MainDialog.cpp
+  teamtalk.cpp
+  正在生成代码...
+  teamtalk.vcxproj -> C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\\..\bin\teamtalk\Debug\teamtalk.exe

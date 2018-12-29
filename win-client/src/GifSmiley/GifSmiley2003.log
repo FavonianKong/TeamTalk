@@ -1,0 +1,70 @@
+﻿  stdafx.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  GifSmiley.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  GifSmileyCtrl.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  mAniImage.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.11.25503\atlmfc\include\atlplus.h(26): warning C4467: 已弃用 ATL 属性的使用情况
+  正在生成代码...
+GifSmiley.obj : warning LNK4075: 忽略“/EDITANDCONTINUE”(由于“/INCREMENTAL:NO”规范)
+    正在创建库 C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\..\lib\Debug\GifSmiley.lib 和对象 C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\..\lib\Debug\GifSmiley.exp
+  Microsoft (R) 32b/64b MIDL Compiler Version 8.01.0622 
+  Copyright (c) Microsoft Corporation. All rights reserved.
+  Processing .\vc140.idl
+  vc140.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\prsht.idl
+  prsht.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\MsHTML.idl
+  MsHTML.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dimm.idl
+  dimm.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\shtypes.idl
+  shtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\dispex.idl
+  dispex.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\dxgitype.idl
+  dxgitype.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\dxgicommon.idl
+  dxgicommon.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\shared\dxgiformat.idl
+  dxgiformat.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\MsHtmHst.idl
+  MsHtmHst.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\docobj.idl
+  docobj.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ExDisp.idl
+  ExDisp.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ObjSafe.idl
+  ObjSafe.idl
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Windows Kits\10\Include\10.0.16299.0\um\ocidl.acf
+  ocidl.acf
+  GifSmiley2003.vcxproj -> C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\\..\bin\teamtalk\Debug\GifSmiley.dll
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3075: 命令“Regsvr32.exe /s "C:\Users\FavonianKong\Desktop\TeamTalk\win-client\solution\\..\bin\teamtalk\Debug\GifSmiley.dll"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppCommon.targets(133,5): error MSB3075: :VCEnd”已退出，代码为 5。请验证您是否拥有运行此命令的足够权限。
